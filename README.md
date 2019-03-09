@@ -1,7 +1,7 @@
 # Professor Diogo Cezar 2019/01
 
 <p align="center">
-  <img width="548" height="764" src="http://www.fillmurray.com/460/300">
+  <img width="548" height="764" src="https://raw.githubusercontent.com/diogocezar/dctb-utfpr-2019-1-intro/master/cover.png">
 </p>
 
 Olá pessoas, tudo certo por ai?
