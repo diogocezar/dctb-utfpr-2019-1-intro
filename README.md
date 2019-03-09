@@ -1,15 +1,19 @@
 # Professor Diogo Cezar 2019/01
 
+<p align="center">
+  <img width="548" height="764" src="http://www.fillmurray.com/460/300">
+</p>
+
 Olá pessoas, tudo certo por ai?
 
 Este repositório será utilizado para organizar todo o material da disciplina de Introdução a Engenharia de Software ministrada pelo professor Diogo Cezar no semestre 2019/01.
 
-- IF66H - Programação Web 1 - ES61 - Horários e Salas:
-  - 5N4 : A040;
-  - 5N5 : A040;
-  - 6N1 : P105;
-  - 6N2 : P105;
-  - 6N3 : P105;
+- ES31A - Introdução A Engenharia De Software - ES11 - Horários e Salas:
+  - 2N1 : A136;
+  - 2N2 : A136;
+  - 2N3 : A136;
+  - 4N2 : P205;
+  - 4N3 : P205;
 
 ## Conteúdo
 
