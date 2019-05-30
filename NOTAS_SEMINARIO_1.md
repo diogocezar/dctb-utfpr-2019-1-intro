@@ -120,3 +120,61 @@
 ## Nota
 
 85,0
+
+# Grupo 5
+
+- VICTOR HUGO DE SOUZA FERACIN
+- CLAYTON ROBERTO MEDEIROS
+- LEONARDO GARCIA DOS SANTOS
+- JOÃO VITOR OLIVEIRA ABREU
+- EDUARDO MORAIS FORNASIER
+- PAULO RICARDO DOS SANTOS
+
+## Temas
+
+- SOFTWARES DE COMPUTAÇÃO CIENTÍFICA E ENGENHARIA
+- CLOUD COMPUTING
+
+## Observações
+
+- Slides em Tópicos; (Já foi Falado)
+- Falar sobre a complexidade de algorítmos;
+- Tema abordado (Computação Científica) e exemplos foram pouco aprofundados;
+- Segundo quem? essas são as linguagens mais utilizadas?
+- Ler não é apresentar;
+- Cloud Computing não é internet;
+- Referências nos slides;
+- É necessário entender do que se está falando;
+- Conceito de serverless está equivocado;
+
+## Nota
+
+75,0
+
+# Grupo 6
+
+- LUCAS HERREIRO DE OLIVEIRA
+- VINICIUS DE LIMA MENDONÇA
+- ERIK LIMA FLORO SILVA
+- ISABELLE SPIGOLON BARBOSA
+
+# Temas
+
+- SOFTWARES DE COMPUTADOR PESSOAL
+- CRIAÇÃO DE JOGOS
+
+## Observações
+
+- Slides em tópicos;
+- Focado muito em alguns recursos do editor de textos/planilhas;
+- Office também tem o pacote online Office360 (shared);
+- Melhor distribuição do tempo entre os participantes;
+- Ler não é apresentar;
+- Segundo quem o powerpoint é o mais conhecido? -> Referências;
+- HTML não é linguagem de programação;
+- Segundo que dados (Chrome)?;
+- Gerencia do Tempo;
+
+## Nota
+
+68,0
