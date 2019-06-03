@@ -178,3 +178,28 @@
 ## Nota
 
 68,0
+
+# Grupo 7
+
+- EUGÊNIO ALVES MOREIRA NETO
+- EDUARDO REGIANI SELERI
+- VINICIUS HENRIQUE DA ROCHA KLIEMANN
+- LUCAS MALHEIROS
+- FELIPE ALVARENGA MARTINS
+- OTACÍLIO OLIVEIRA BARBIERI
+
+# Temas
+
+- SOFTWARES BÁSICOS
+- BLOCKCHAIN
+
+# Observações
+
+- Trabalhar sempre com exemplos;
+- Algumas partes mais técnicas precisam de um exemplo mais claro;
+- Blockchain: Para quem não sabe, acredito que ficou complexo de entender;
+- Faltou falar de como funciona a mineração das criptomoeadas;
+
+# Nota
+
+85,0
